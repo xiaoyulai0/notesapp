@@ -11,7 +11,7 @@ export default function App() {
         lineHeight: 1.6,
       }}
     >
-      <h1>Hello Amplify 🚀</h1>
+      <h1>Hello Amplify v2 🚀</h1>
       <p>Deployed from GitHub via AWS Amplify (us-east-2).</p>
     </main>
   );
